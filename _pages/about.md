@@ -10,7 +10,7 @@ redirect_from:
 
 Evagoras Makridis received his B.Sc. degree in Electrical Engineering from [Cyprus University of Technology](https://www.cut.ac.cy) in June 2017, and his M.Sc. degree in Autonomous Systems from [KTH Royal Institute of Technology](https://kth.se) and [Aalto University](https://www.aalto.fi) holding an excellence scholarship from [EIT Digital](https://www.eitdigital.eu). After his B.Sc. graduation he worked as Research Assistant at the [University of Lincoln](https://www.lincoln.ac.uk) (United Kingdom) through the Erasmus+ placement, and at Aalto University (Finland), until he joined [TRG Research and Development](https://www.trgint.com) as a full-stack software developer. During his M.Sc. studies, he worked in academia as a Research Assistant in both Aalto University and KTH Royal Institute of Technology, as well as in industry with [Ericsson AB](https://www.ericsson.com/en) to pursue his M.Sc. thesis "Reinforcement Learning for Radio Resource Management in 5G-NR Networks".
 
-His research interests are in autonomous systems and more specifically in networked control systems, and reinforcement learning for resource management, with applications in quadrotor navigation, cloud computing, and 5G link adaptation.
+His research interests are in autonomous systems and more specifically in networked control systems, and data-driven sequential decision-making (Reinforcement Learning), with applications in quadrotor navigation, resource management, and wireless link adaptation and scheduling.
 
 Latest news
 ------
