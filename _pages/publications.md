@@ -24,3 +24,9 @@ International Conference on Wireless Communications and Mobile Computing (IWCMC)
 - [C1] [Dynamic CPU Resource Provisioning in Virtualized Servers using Maximum Correntropy Criterion Kalman Filters](https://ieeexplore.ieee.org/abstract/document/8247677).  
 Evagoras Makridis, Kyriakos Deliparaschos, Evangelia Kalyvianaki, Themistoklis Charalambous.  
 IEEE International Conference on Emerging Technologies and Factory Automation (ETFA), 2017.
+
+M.Sc. Thesis
+------
+- [MSc1] [Reinforcement Learning for Link Adaptation in 5G-NR Networks](https://www.diva-portal.org/smash/record.jsf?pid=diva2%3A1527910&dswid=-6570).  
+Evagoras Makridis.  
+KTH Royal Institute of Technology, Ericsson AB, 2020.
