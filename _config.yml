@@ -309,4 +309,4 @@ compress_html:
   ignore:
     envs: development
 
-theme: jekyll-theme-architect
+theme: jekyll-theme-chirpy
