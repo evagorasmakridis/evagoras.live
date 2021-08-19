@@ -29,7 +29,7 @@ comments:
   facebook:
     appid                :
     num_posts            : # 5 (default)
-    colorscheme          : # "light" (default), "dark"
+    colorscheme          : dark # "light" (default), "dark"
 staticman:
   allowedFields          : ['name', 'email', 'url', 'message']
   branch                 : "gh-pages" # "master", "gh-pages"
@@ -86,7 +86,7 @@ author:
   location         : "Limassol, Cyprus"
   employer         :
   googlescholar    : "https://scholar.google.gr/citations?user=qNcszUUAAAAJ&hl=en&oi=ao"
-  email            :
+  email            : "makridis.evagoras@ucy.ac.cy"
   researchgate     : "https://www.researchgate.net/profile/Evagoras_Makridis"
   uri              :
   bitbucket        :
