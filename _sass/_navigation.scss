@@ -4,7 +4,12 @@
 
 
 .navbar .nav > li > a.brand-image {
-      padding: 4px 0px 0px 0px;
+    width: 25%;
+    position: absolute;
+    top: -32%;
+    right: 0;
+    margin-top: -1px;
+    padding: 5px;
 }
 .navbar .nav > li > a > img.brand-image {
     -webkit-border-radius: 0px;
