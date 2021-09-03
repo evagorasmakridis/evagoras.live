@@ -4,12 +4,8 @@
 
 
 a.brand-image {
-    width: 25%;
-    position: absolute;
-    top: -32%;
-    right: 0;
-    margin-top: -1px;
-    padding: 5px;
+    width: 50%;
+    left: 40%;
 }
 .navbar .nav > li > a > img.brand-image {
     -webkit-border-radius: 0px;
@@ -194,7 +190,6 @@ a.brand-image {
   a {
     display: block;
     margin: 0 1rem;
-    padding: 0.5rem 0;
     color: $masthead-link-color;
     text-decoration: none;
 
