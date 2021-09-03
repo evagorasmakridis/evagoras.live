@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Evagoras Makridis"
+title                    : "Home"
 title_separator          : "-"
 name                     : &name "Evagoras Makridis"
 description              : &description "personal description"
